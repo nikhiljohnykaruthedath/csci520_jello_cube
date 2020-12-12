@@ -1,0 +1,26 @@
+<Please submit this file with your solution.>
+
+CSCI 520, Assignment 1
+
+Nikhil Johny Karuthedath
+ID: 2900797907
+
+================
+
+<Description of what you have accomplished>
+
+	Created a mass spring class that contains all the logic for the jello cube and incline plane
+	Calculates the hook force, damping force for the structural, shear and bend springs
+	Calculates the force field
+	Calculates the collision with the inclined plane and bounding box
+	Using calculated forces, we find the acceleration, which is integator using either Euler or RK4 to find the position
+
+<Also, explain any extra credit that you have implemented.>
+
+	1. Transparent jelly cube
+	2. Inclined plane
+	3. Modified world file: final.w to create a more elastic jelly
+	4. Procedural texture: checkered ground plane
+	5. FPS display using VegaFEM library: performanceCounter.h
+
+
