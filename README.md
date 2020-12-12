@@ -47,7 +47,7 @@ make
 - e: reset camera to default position
 
 ## Demo
-[Youtube](https://youtu.be/FgTOGa5bvJs)
+[Youtube](https://youtu.be/LX04EZoUTBY)
 
 ## Course Links
 1) USC Viterbi School of Engineering [CSCI 520](http://barbic.usc.edu/cs520-s20/)
